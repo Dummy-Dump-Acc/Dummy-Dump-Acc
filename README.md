@@ -1,1 +1,3 @@
 # Dummy-Dump-Acc
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-pink)](https://drive.google.com/file/d/1E7XQtDf_lEAg2KDOBm-Fof8gIun39buK/view?usp=drive_link)
